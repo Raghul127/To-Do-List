@@ -17,7 +17,5 @@ Spider Webdev Task 2
 2. Users will be able to create to-do lists and check out items they have completed, uncheck them,delete them too.
 <br>
 3. Creating Notes with a title for each note.
-<br>
-<br>
 
 ...Still update pending to create dynamic tables 
