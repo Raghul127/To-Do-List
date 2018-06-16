@@ -3,6 +3,7 @@ Spider Webdev Task 2
 
 # Instructions:
 1.Install wamp or any php mysql apache server.
+<br>
 2.In phpmyadmin mysql server create database "registration" and table "users" with 4 columns id(Primary and Auto-Increment),username,email,password.
 3.Put this folder in the root.
 4.index.php is main file.Run localhost/registration.
